@@ -14,10 +14,10 @@ knit        : slidify::knit2slides
 
 ## Introduction
 
-**Visualizing the Forbes Global 2000 dataset from 2017**
+`Visualizing the Forbes Global 2000 dataset from 2017`
 
 
-This App aims to provide a handling data visualisation for 
+This App aims to provide a handling data visualization for 
 *Forbes Global 2000* dataset from 2017 as part of the Data Products Course in the Data Science Specialization
 from the [Johns Hopkins University](http://www.jhu.edu) in [Coursera](https://www.coursera.org/specializations/jhu-data-science).
 
