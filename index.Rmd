@@ -25,7 +25,12 @@ The dataset was downloaded from [kaggle](https://www.kaggle.com/ash316/forbes-to
 
 ---
 
+
 ## The Forbes Global 2000 dataset 2017 - Columns
+```{r}
+data<-read.csv("Forbes2000_2017_WorldBank.csv")
+str(data,vec.len = 2)
+```
   - `Rank`          - Rank number             
   - `Country`       - Company's Country   
   - `Company`       - Company's name 
